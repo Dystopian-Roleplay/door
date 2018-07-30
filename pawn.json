@@ -7,7 +7,7 @@
         "sampctl/samp-stdlib",
         "pawn-lang/YSI-Includes",
         "samp-incognito/samp-streamer-plugin",
-        "Dystopian-Roleplay/button"
+        "Dystopian-Roleplay/button@2.0.0"
     ],
     "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
