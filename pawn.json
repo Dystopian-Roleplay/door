@@ -7,7 +7,7 @@
         "sampctl/samp-stdlib",
         "pawn-lang/YSI-Includes",
         "samp-incognito/samp-streamer-plugin",
-        "ScavengeSurvive/button"
+        "Dystopian-Roleplay/button"
     ],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
